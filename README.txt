@@ -1,0 +1,2 @@
+- RAKwireless_RAK12033_Library-1.0.1.zip contains the Library File this files should be added to the Arduino IDE.
+- RAK12033_6_Axis_BasicReadings_IIM_42652_I2C_COM1.ino file contains an example of reading accelerometer data and the read write example of registers.
