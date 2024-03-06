@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=PWR_3V0 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=GND Pin=U1-42
+Removed Pin From Net: NetName=GND Pin=U1-43
+Removed Pin From Net: NetName=GND Pin=U1-44
+Removed Pin From Net: NetName=GND Pin=U1-45
+Removed Pin From Net: NetName=GND Pin=U1-46
+Removed Pin From Net: NetName=GND Pin=U1-47
+Removed Pin From Net: NetName=GND Pin=U1-48
+Removed Pin From Net: NetName=GND Pin=U1-49
+Removed Pin From Net: NetName=GND Pin=U1-50
+Removed Pin From Net: NetName=GND Pin=U1-51
+Removed Member From Class: ClassName=Accelerometer Member=U99
+Change Component Comment : Designator=U99 Old Comment=ESP32-WROVER-B-N4R8 New Comment=ESP32-WROVER-IE-N4R8
+Change Component Designator: OldDesignator=U99 NewDesignator=U1
+Change Component Description : Designator=U1 Old Description=No Description Available New Description=ESP32-WROVER-IE-N4R8
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=ESP32_EN Pin=U1-3
+Added Pin To Net: NetName=ESP_TXD0 Pin=U1-34
+Added Pin To Net: NetName=ESP_RXD0 Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=GND Pin=U1-42
+Added Pin To Net: NetName=GND Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U1-45
+Added Pin To Net: NetName=GND Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=ESP_IO0_Boot Pin=J3-6
+Added Pin To Net: NetName=ESP_IO0_Boot Pin=U1-25
+Added Net: Name=ESP_IO0_Boot
+Added Pin To Net: NetName=PWR_3V3 Pin=J3-2
+Added Pin To Net: NetName=PWR_3V3 Pin=U1-2
+Added Net: Name=PWR_3V3
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

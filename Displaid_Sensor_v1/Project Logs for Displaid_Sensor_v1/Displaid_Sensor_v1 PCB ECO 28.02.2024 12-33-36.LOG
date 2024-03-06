@@ -1,0 +1,13 @@
+Added Component: Designator=U?(ESP32-S2-WROOM_EXP)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Accelerometer Member=Component C? 1u
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Member To Class: ClassName=Accelerometer Member=Component U? ESP32-S2-WROOM-N4
+Added Room: Name=Accelerometer
+Added Room: Name=Power Harvesting

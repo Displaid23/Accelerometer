@@ -1,0 +1,28 @@
+Added Component: Designator=U?(SOT-25_TOR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Torex Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=I2C_ADDR Pin=U?-1
+Added Net: Name=I2C_ADDR
+Added Pin To Net: NetName=I2C_CLK Pin=U?-13
+Added Net: Name=I2C_CLK
+Added Pin To Net: NetName=I2C_DATA Pin=U?-14
+Added Net: Name=I2C_DATA
+Added Pin To Net: NetName=INT1 Pin=U?-4
+Added Pin To Net: NetName=INT1 Pin=U?-9
+Added Net: Name=INT1
+Added Pin To Net: NetName=PWR_3V0 Pin=U?-5
+Added Pin To Net: NetName=PWR_3V0 Pin=U?-5
+Added Pin To Net: NetName=PWR_3V0 Pin=U?-8
+Added Pin To Net: NetName=PWR_3V0 Pin=U?-12
+Added Net: Name=PWR_3V0
+Added Pin To Net: NetName=PWR_5V Pin=U?-1
+Added Pin To Net: NetName=PWR_5V Pin=U?-3
+Added Net: Name=PWR_5V
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Room: Name=Accelerometer
+Added Room: Name=Power Harvesting

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PWR_3V0 Pin=C7-2
+Removed Pin From Net: NetName=PWR_3V0 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=PWR_5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=PWR_3V0 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=PWR_3V0 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=PWR_3V0 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=PWR_5V Pin=C?-2
+Added Member To Class: ClassName=Accelerometer Member=Component C? 100n
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352

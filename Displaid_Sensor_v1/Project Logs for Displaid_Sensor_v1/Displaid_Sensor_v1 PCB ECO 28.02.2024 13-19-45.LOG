@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=Power Harvesting Member=J?
+Change Component Comment : Designator=J? Old Comment=SHF-103-01-L-D-SM New Comment=CONN(1.27mm, 2x3, 6POS)
+Change Component Designator: OldDesignator=C17 NewDesignator=C32
+Change Component Designator: OldDesignator=C18 NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Member To Class: ClassName=Accelerometer Member=Component C42 1u
+Added Member To Class: ClassName=Power Harvesting Member=Component J1 CONN 2.5MM POS-2
+Added Member To Class: ClassName=Power Harvesting Member=Component J2 CONN 2.5MM POS-2
+Added Member To Class: ClassName=Accelerometer Member=Component R31 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R33 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R34 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R35 10K
+Added Member To Class: ClassName=Accelerometer Member=Component U3 IIM-42352
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

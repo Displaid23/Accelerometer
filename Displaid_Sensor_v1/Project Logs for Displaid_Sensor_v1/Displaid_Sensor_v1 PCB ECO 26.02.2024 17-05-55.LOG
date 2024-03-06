@@ -1,0 +1,21 @@
+Added Component: Designator=U?(IIM-42652_TDK)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Harvesting Member=Component C1 4.7u
+Added Member To Class: ClassName=Power Harvesting Member=Component C2 4.7u
+Added Member To Class: ClassName=Power Harvesting Member=Component C6 100n
+Added Member To Class: ClassName=Power Harvesting Member=Component C7 100n
+Added Member To Class: ClassName=Power Harvesting Member=Component C8 100n
+Added Member To Class: ClassName=Power Harvesting Member=Component C9 47u
+Added Member To Class: ClassName=Power Harvesting Member=Component L1 22uH
+Added Member To Class: ClassName=Power Harvesting Member=Component R1 10M
+Added Member To Class: ClassName=Power Harvesting Member=Component R2 1M
+Added Member To Class: ClassName=Power Harvesting Member=Component R3 5.6M
+Added Member To Class: ClassName=Power Harvesting Member=Component R4 6.2M
+Added Member To Class: ClassName=Power Harvesting Member=Component R5 500k
+Added Member To Class: ClassName=Power Harvesting Member=Component R6 2.7M
+Added Member To Class: ClassName=Power Harvesting Member=Component U2 SPV1050TTR
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Room: Name=Accelerometer
+Added Room: Name=Power Harvesting

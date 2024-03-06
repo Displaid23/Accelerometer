@@ -1,0 +1,9 @@
+Added Component: Designator=U99(ESP32-WROVER-IB_EXP)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Accelerometer Member=Component J3 CONN(1.27mm, 2x3, 6POS)
+Added Member To Class: ClassName=Accelerometer Member=Component U99 ESP32-WROVER-B-N4R8
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

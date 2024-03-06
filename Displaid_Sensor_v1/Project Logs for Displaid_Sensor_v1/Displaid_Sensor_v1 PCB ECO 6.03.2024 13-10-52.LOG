@@ -1,0 +1,68 @@
+Added Component: Designator=C51(YAG_CC0603_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R52(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R53(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R54(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_3V3 Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=PWR_3V3 Pin=U5-22
+Added Pin To Net: NetName=PWR_3V3 Pin=U5-23
+Added Pin To Net: NetName=GND Pin=U5-24
+Added Pin To Net: NetName=GPS_EXTINT Pin=U5-4
+Added Net: Name=GPS_EXTINT
+Added Pin To Net: NetName=GPS_RESET_N Pin=U5-8
+Added Net: Name=GPS_RESET_N
+Added Pin To Net: NetName=GPS_RXD_MOSI Pin=R51-2
+Added Net: Name=GPS_RXD_MOSI
+Added Pin To Net: NetName=GPS_SCL_SPICLK Pin=R53-2
+Added Net: Name=GPS_SCL_SPICLK
+Added Pin To Net: NetName=GPS_SDA_SPICS Pin=R54-2
+Added Net: Name=GPS_SDA_SPICS
+Added Pin To Net: NetName=GPS_TIMEPULSE Pin=U5-3
+Added Net: Name=GPS_TIMEPULSE
+Added Pin To Net: NetName=GPS_TXD_MISO Pin=R52-2
+Added Net: Name=GPS_TXD_MISO
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=U5-21
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR52_1 Pin=U5-20
+Added Net: Name=NetR52_1
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U5-19
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U5-18
+Added Net: Name=NetR54_1
+Added Member To Class: ClassName=Accelerometer Member=Component C42 4.7µ
+Added Member To Class: ClassName=GPS Module Member=Component C51 100n
+Added Member To Class: ClassName=GPS Module Member=Component R51 33
+Added Member To Class: ClassName=GPS Module Member=Component R52 33
+Added Member To Class: ClassName=GPS Module Member=Component R53 33
+Added Member To Class: ClassName=GPS Module Member=Component R54 33
+Added Member To Class: ClassName=Accelerometer Member=Component U? NCP1117LPST33T3G
+Added Member To Class: ClassName=Accelerometer Member=Component U? DS18B20+
+Added Member To Class: ClassName=Accelerometer Member=Component U? XC6220B331MR-G
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=PWR_3V0 Pin=R?-1
+Removed Pin From Net: NetName=PWR_3V0 Pin=R?-1
+Removed Pin From Net: NetName=PWR_3V0 Pin=R?-1
+Removed Pin From Net: NetName=PWR_3V0 Pin=R?-1
+Removed Pin From Net: NetName=I2C_ADDR Pin=R?-2
+Removed Pin From Net: NetName=I2C_ADDR Pin=R?-2
+Removed Pin From Net: NetName=I2C_CLK Pin=R?-2
+Removed Pin From Net: NetName=I2C_DATA Pin=R?-2
+Removed Pin From Net: NetName=PWR_3V0 Pin=R?-2
+Removed Member From Class: ClassName=Power Harvesting Member=C17
+Removed Member From Class: ClassName=Power Harvesting Member=C18
+Added Component: Designator=R?(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RC0603N_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=PWR_3V0 Pin=R?-1
+Added Pin To Net: NetName=PWR_3V0 Pin=R?-1
+Added Pin To Net: NetName=PWR_3V0 Pin=R?-1
+Added Pin To Net: NetName=PWR_3V0 Pin=R?-1
+Added Pin To Net: NetName=I2C_ADDR Pin=R?-2
+Added Pin To Net: NetName=I2C_ADDR Pin=R?-2
+Added Pin To Net: NetName=I2C_CLK Pin=R?-2
+Added Pin To Net: NetName=I2C_DATA Pin=R?-2
+Added Pin To Net: NetName=PWR_3V0 Pin=R?-2
+Added Member To Class: ClassName=Power Harvesting Member=Component C7 100n
+Added Member To Class: ClassName=Power Harvesting Member=Component C8 100n
+Added Member To Class: ClassName=Accelerometer Member=Component C? 1u
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Room: Name=Accelerometer
+Added Room: Name=Power Harvesting

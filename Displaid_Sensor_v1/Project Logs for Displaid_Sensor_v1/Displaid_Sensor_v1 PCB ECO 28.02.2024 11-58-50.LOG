@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=PWR_5V Pin=C?-2
+Added Component: Designator=J?(SAMTEC_SHF-103-01-L-D-SM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SHF-103-01-L-D-SM/Samtec/view-part/3351308/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "SHF-103-01-L-D-SM-LC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SHF-103-01-L-D-SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SHF-103-01-L-D-SM/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SHF-103-01-L-D-SM/Samtec/view-part/3351308/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=PWR_3V0 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=PWR_5V Pin=C?-2
+Added Member To Class: ClassName=Accelerometer Member=Component C? 1u
+Added Member To Class: ClassName=Accelerometer Member=Component J? SHF-103-01-L-D-SM
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Room: Name=Accelerometer
+Added Room: Name=Power Harvesting

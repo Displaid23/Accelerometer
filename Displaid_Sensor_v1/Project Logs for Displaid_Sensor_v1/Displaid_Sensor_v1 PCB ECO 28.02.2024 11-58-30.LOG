@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWR_5V Pin=C?-2
+Change Component Comment : Designator=J? Old Comment=IDC 2X3 Conn New Comment=SHF-103-01-L-D-SM
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=PWR_5V Pin=C?-2
+Added Member To Class: ClassName=Accelerometer Member=Component C? 1u
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Room: Name=Accelerometer
+Added Room: Name=Power Harvesting

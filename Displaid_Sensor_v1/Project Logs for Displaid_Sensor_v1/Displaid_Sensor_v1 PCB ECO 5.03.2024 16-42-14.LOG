@@ -1,0 +1,10 @@
+Added Component: Designator=U?(SOT-25_TOR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Torex Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Member To Class: ClassName=Accelerometer Member=Component U1 ESP32-WROVER-IE-N4R8
+Added Member To Class: ClassName=Accelerometer Member=Component U? XC6220B331MR-G
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

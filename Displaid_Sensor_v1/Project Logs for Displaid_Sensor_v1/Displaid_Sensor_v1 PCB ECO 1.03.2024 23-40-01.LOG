@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Solar_Panel_In Pin=J1-1
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Added Component: Designator=J1(CONN_S2B-PH-K-S_JST)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN_S2B-PH-K-S_JST)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Solar_Panel_In Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=PWR_5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=PWR_5V Pin=U2-14
+Change Net Name : Old Net Name=PWR_5V New Net Name=Battery_In_Out
+Added Member To Class: ClassName=Power Harvesting Member=Component J3 CONN 2.5MM POS-2
+Added Member To Class: ClassName=Power Harvesting Member=Component J4 CONN 2.5MM POS-2
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

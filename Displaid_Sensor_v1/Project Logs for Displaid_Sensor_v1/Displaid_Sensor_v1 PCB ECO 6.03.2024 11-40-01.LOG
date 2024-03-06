@@ -1,0 +1,39 @@
+Change Component Comment : Designator=C42 Old Comment=1u New Comment=4.7µ
+Added Component: Designator=C42(CAPC220145_100N_KEM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C105Z4VACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT223-3_ONS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(21-0248A_Q3-1_MXM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices / Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Battery_In_Out Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=PWR_3V0 Pin=J3-2
+Added Pin To Net: NetName=PWR_3V0 Pin=U1-2
+Added Pin To Net: NetName=INT1 Pin=U1-10
+Added Pin To Net: NetName=Battery_In_Out Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=Battery_In_Out Pin=U?-3
+Added Pin To Net: NetName=PWR_3V0 Pin=U?-5
+Change Net Name : Old Net Name=PWR_3V0 New Net Name=PWR_3V3
+Added Pin To Net: NetName=I2C_SCL Pin=R34-2
+Added Pin To Net: NetName=I2C_SCL Pin=U1-36
+Added Pin To Net: NetName=I2C_SCL Pin=U3-13
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=R33-2
+Added Pin To Net: NetName=I2C_SDA Pin=U1-33
+Added Pin To Net: NetName=I2C_SDA Pin=U3-14
+Added Net: Name=I2C_SDA
+Added Member To Class: ClassName=Accelerometer Member=Component C42 4.7µ
+Added Member To Class: ClassName=Accelerometer Member=Component U? NCP1117LPST33T3G
+Added Member To Class: ClassName=Accelerometer Member=Component U? XC6220B331MR-G
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

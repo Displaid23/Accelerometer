@@ -1,0 +1,10 @@
+Added Component: Designator=U?(21-0248A_Q3-1_MXM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices / Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Accelerometer Member=Component C42 4.7µ
+Added Member To Class: ClassName=Accelerometer Member=Component U? XC6220B331MR-G
+Added Member To Class: ClassName=Accelerometer Member=Component U? DS18B20+
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

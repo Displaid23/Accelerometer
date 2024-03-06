@@ -1,0 +1,20 @@
+Added Component: Designator=J?(CONN(2.5MM,2POS))
+Added Component: Designator=J?(CONN(2.5MM,2POS))
+Added Pin To Net: NetName=OffSheet Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Change Net Name : Old Net Name=OffSheet New Net Name=Solar_Panel_In
+Added Pin To Net: NetName=Battery_In Pin=J?-1
+Added Net: Name=Battery_In
+Added Member To Class: ClassName=Accelerometer Member=Component C? 1u
+Added Member To Class: ClassName=Power Harvesting Member=Component J? CONN 2.5MM POS-2
+Added Member To Class: ClassName=Power Harvesting Member=Component J? CONN 2.5MM POS-2
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component R? 10K
+Added Member To Class: ClassName=Accelerometer Member=Component U? IIM-42352
+Added Member To Class: ClassName=Accelerometer Member=Component U? XC6210B302MR-G
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

@@ -1,0 +1,19 @@
+Added Component: Designator=J3(CONN(2.5MM,2POS))
+Added Component: Designator=J4(CONN(2.5MM,2POS))
+Added Component: Designator=U4(SOT-25_TOR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Torex Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=Battery_In_Out Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=Battery_In_Out Pin=U4-3
+Added Pin To Net: NetName=PWR_3V0 Pin=U4-5
+Added Member To Class: ClassName=Accelerometer Member=Component J3 CONN(1.27mm, 2x3, 6POS)
+Added Member To Class: ClassName=Power Harvesting Member=Component J3 CONN 2.5MM POS-2
+Added Member To Class: ClassName=Power Harvesting Member=Component J4 CONN 2.5MM POS-2
+Added Member To Class: ClassName=Accelerometer Member=Component U4 XC6210B302MR-G
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting

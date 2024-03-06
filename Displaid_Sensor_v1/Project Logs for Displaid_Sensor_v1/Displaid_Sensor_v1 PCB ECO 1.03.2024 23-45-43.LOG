@@ -1,0 +1,12 @@
+Added Component: Designator=J3(CONN(2.5MM,2POS))
+Added Component: Designator=J4(CONN(2.5MM,2POS))
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=Power Harvesting Member=Component J1 CONN(2.5mm, 2pos, Right-Angle)
+Added Member To Class: ClassName=Power Harvesting Member=Component J2 CONN(2.5mm, 2pos, Right-Angle)
+Added Member To Class: ClassName=Accelerometer Member=Component J3 CONN(1.27mm, 2x3, 6POS)
+Added Member To Class: ClassName=Power Harvesting Member=Component J3 CONN 2.5MM POS-2
+Added Member To Class: ClassName=Power Harvesting Member=Component J4 CONN 2.5MM POS-2
+Added Room: Name=Accelerometer
+Added Room: Name=GPS Module
+Added Room: Name=Power Harvesting
